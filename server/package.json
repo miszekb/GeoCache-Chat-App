@@ -43,7 +43,7 @@
     "graphql": "14.4.0",
     "graphql-toolkit": "^0.7.5",
     "imap": "^0.8.19",
-    "mongoose": "^5.7.5",
+    "mongoose": "^5.13.15",
     "nodemailer": "^6.3.0",
     "reflect-metadata": "^0.1.13",
     "socket.io": "^2.4.0",
